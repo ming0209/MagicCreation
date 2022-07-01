@@ -1,0 +1,6 @@
+name: MagicCreation
+version: '${project.version}'
+main: com.ming0209.magiccreation.main
+api-version: 1.18
+authors: [ ming0209 ]
+description: You can create magic
